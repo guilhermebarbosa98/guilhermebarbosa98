@@ -1,8 +1,7 @@
 Olá sou o Guilherme Barbosa!
 
-•Desenvolvedor Front-End 🧑‍💻
+•Desenvolvedor de Software 🧑‍💻
 •Apaixonado por Tecnologia✍️
-•Cursando Técnico em administração📚 
 •Em constante evolução🚀
 
 <!---
